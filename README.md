@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gloger2003
+- 👀 I’m interested in python dev
+- 💞️ I’m looking to collaborate on frontend-DevOps
+- 📫 How to reach me: https://vk.com/anight_7554, excelsior7554@gmail.com
